@@ -1,0 +1,60 @@
+.head {
+    height: 20vh; 
+    text-align: center;
+    text-shadow: #ede4e3;
+    background-image: url("");
+}
+.headtext {
+    color: rgb(243, 213, 213);
+    text-align: center;
+     font-size: 2.25em; 
+     font-weight: bold;
+    
+    }
+
+    
+.btn {
+      white-space: normal;
+      background-color: rgb(210, 229, 229);
+      
+    }
+#full-donation-form {
+    padding: 0 0 5% 0;
+
+}
+#submit-button {
+    padding-bottom: 6%;
+     padding-top: 5%;
+     
+    }
+            
+#gift-type {
+    padding-bottom: 2%;
+
+}
+#annual {
+    padding-top: 1%;
+}
+#donation-info {
+    padding-bottom: 2%;
+}
+#donor-info {
+    padding-bottom: 2%;
+    background-color:whitesmoke;
+    width: 1050px;
+}
+                                                    
+#payment-info {
+    padding-bottom: 2%;
+    width: 1000px;
+}
+#payment-type {
+    padding-bottom: 5%;
+    padding-top: 3%;
+}
+                                                                  
+#payment-options {padding-bottom: 2%; 
+    background-color: #e2d9cf;
+    
+    padding-top: 1%;}
+                                                                     
